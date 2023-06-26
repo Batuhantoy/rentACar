@@ -1,5 +1,5 @@
 # rentACar
-Well structured project using Java, Java Spring Boot, Hibernate
+Well structured APİ project using Java, Java Spring Boot, Hibernate
 
 
 ![e1](https://github.com/Batuhantoy/rentACar/assets/88581656/8c14bf15-9fbf-4591-b844-66e61ee5b00a)
